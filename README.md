@@ -49,13 +49,26 @@
     - [ ] Runtime Dashboard (in progress)
     - [ ] Paper Trading Engine
     - [ ] Full Backtesting Engine
+    
+    Recent Progress (Build Log)
 
+    Week 1: Foundation
+    - [x] Created trion-dsl repo (Strategy Definition Language)
+    - [x] Architected multi-agent signal pipeline
+    - [x] Defined core engineering principles
+    - [ ] Started trion-engine repo (this repo)
+
+    Why Build in Public?
+    "The best trading systems are the ones you can audit, not the ones that promise '1000% returns.'"
+
+    Building in public builds trust. Transparency is our superpower.
+    
     Connect
 
-    - Website
-    - Blog
-    - Discord Community
-    - LinkedIn
+    - [Website](https://usetrion.com/)
+    - [Blog](https://usetrion.com/blog/)
+    - [Discord Community](https://discord.gg/kZ5n3CNP)
+    - [LinkedIn](https://www.linkedin.com/company/usetrion/?viewAsMember=true)
 
     License
 
